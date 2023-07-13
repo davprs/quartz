@@ -1,4 +1,4 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://www.crisantedavide.ml/digital-garden"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
@@ -8,7 +8,11 @@ ignoreFiles = [
 ]
 summaryLength = 20
 paginate = 10
-enableGitInfo = true
+enableGitInfo = false
+title = "🪴Davide's Digital Garden"
+
+[author]
+  name = "Davide Crisante"
 
 [markup]
     [markup.tableOfContents]
